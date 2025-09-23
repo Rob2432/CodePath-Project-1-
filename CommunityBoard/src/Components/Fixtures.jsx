@@ -79,7 +79,7 @@ function Fixtures() {
             id: 3,
             opponent: "Atletico Madrid",
             date: "03-16-2025",
-            time: "5:30 PM",
+            time: "5:00 PM",
             competition: "LaLiga",
             location: "Wanda Metropolitano (Away)",
             description: "Tactical battle expected in the capital.",
